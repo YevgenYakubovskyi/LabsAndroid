@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android_Labs</string>
+    <string name="lab_work_text">Laboratory works app</string>
+    <string name="lab1_button_text">Laboratory work 1</string>
+    <string name="lab2_button_text">Laboratory work 2</string>
+    <string name="lab3_button_text">Laboratory work 3</string>
+    <string name="lab4_button_text">Laboratory work 4</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Clear</string>
+    <string name="number_1">Number 1</string>
+    <string name="result_text">Result</string>
+    <string name="Sum">+</string>
+    <string name="Dec">-</string>
+    <string name="operation">Operation</string>
+    <string name="number_2">Number 2</string>
+    <string name="title_activity_results">Results</string>
+    <string name="database">Database</string>
+    <string name="clear">Clear</string>
+    <string name="empty">Database is empty</string>
+    <string name="successful">Data written successfully</string>
+    <string name="add">Calculate and Add</string>
+    <string name="open_file">Open file</string>
+    <string name="open_video">Open video</string>
+    <string name="open_audio">Open audio</string>
+    <string name="open_example">Open example</string>
+    <string name="open_local">Open local file</string>
+    <string name="open_link">Open link</string>
+    <string name="link">Link</string>
+    <string name="apply">Apply</string>
+    <string name="link_empty">Link is empty</string>
+    <string name="invalid_link">Invalid link</string>
+</resources>
